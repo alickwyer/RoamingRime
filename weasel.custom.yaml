@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri May 22 12:08:46 2026"
+  rime_version: 1.13.1
+patch:
+  "style/color_scheme": steam
+  "style/font_face": "微软雅黑"
+  "style/font_point": 13
+  "style/horizontal": true
