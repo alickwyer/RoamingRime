@@ -6,6 +6,6 @@ customization:
   rime_version: 1.13.1
 patch:
   "style/color_scheme": steam
-  "style/font_face": "微软雅黑"
+  "style/font_face": "Microsoft Yahei"
   "style/font_point": 13
   "style/horizontal": true
