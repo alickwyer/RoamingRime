@@ -5,5 +5,8 @@ customization:
   modified_time: "Fri May 22 10:53:38 2026"
   rime_version: 1.13.1
 patch:
+  "menu/page_size": 6
+  "ascii_composer/switch_key/Shift_L": noop
+  "ascii_composer/switch_key/Shift_R": noop
   schema_list:
     - {schema: luna_pinyin_simp}

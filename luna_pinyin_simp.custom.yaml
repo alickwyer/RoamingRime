@@ -1,0 +1,4 @@
+# Rime user customization for luna_pinyin_simp
+# Set ascii_mode reset to 1 so this schema starts in English/ASCII mode by default.
+patch:
+  "switches/@0/reset": 1
