@@ -44,7 +44,7 @@ patch:
 ```yaml
 patch:
   "style/color_scheme": steam
-  "style/font_face": "微软雅黑"
+  "style/font_face": "Microsoft Yahei"
   "style/font_point": 13
   "style/horizontal": true
 ```
@@ -52,7 +52,7 @@ patch:
 含义：
 
 - 使用 `steam` 配色方案。
-- 候选栏字体为 `微软雅黑`，字号 `13`。
+- 候选栏字体为 `Microsoft Yahei`，字号 `13`。
 - 候选栏横向显示。
 
 ## 使用方式
